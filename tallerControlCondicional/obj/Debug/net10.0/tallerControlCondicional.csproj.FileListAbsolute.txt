@@ -1,0 +1,15 @@
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\bin\Debug\net10.0\tallerControlCondicional.exe
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\bin\Debug\net10.0\tallerControlCondicional.deps.json
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\bin\Debug\net10.0\tallerControlCondicional.runtimeconfig.json
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\bin\Debug\net10.0\tallerControlCondicional.dll
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\bin\Debug\net10.0\tallerControlCondicional.pdb
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.AssemblyInfo.cs
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.sourcelink.json
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.dll
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\refint\tallerControlCondicional.dll
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.pdb
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\tallerControlCondicional.genruntimeconfig.cache
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\tallerControlCondicional\obj\Debug\net10.0\ref\tallerControlCondicional.dll

@@ -14,6 +14,7 @@ class Program
         
     //RETO DE OPERADORES
         int width = 7;
+        // el cambio de la variable height a theigth se debe ya que hay 2 variables iguales 
         int Theight = 5;
         int area = width * Theight;
         int perimeter = 2*width + 2*Theight;
@@ -21,4 +22,4 @@ class Program
         Theight -= 2;
         Console.WriteLine($"     RETOS DE OPERADORES\n valor final de width : {width}\n valor final de height : {Theight}\n el area tiene un valor de : {area}\n el perimetro tiene un valor de : {perimeter}");
     }
-}// el cambio de la variable height a theigth se debe ya que hay 2 variables iguales 
+}
