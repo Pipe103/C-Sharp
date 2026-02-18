@@ -1,0 +1,15 @@
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\bin\Debug\net10.0\retoSistemaClinicaVeterinaria.exe
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\bin\Debug\net10.0\retoSistemaClinicaVeterinaria.deps.json
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\bin\Debug\net10.0\retoSistemaClinicaVeterinaria.runtimeconfig.json
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\bin\Debug\net10.0\retoSistemaClinicaVeterinaria.dll
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\bin\Debug\net10.0\retoSistemaClinicaVeterinaria.pdb
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.AssemblyInfoInputs.cache
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.AssemblyInfo.cs
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.sourcelink.json
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.dll
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\refint\retoSistemaClinicaVeterinaria.dll
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.pdb
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\retoSistemaClinicaVeterinaria.genruntimeconfig.cache
+C:\Users\felip\Downloads\mi repositorio\C-Sharp\retoSistemaClinicaVeterinaria\obj\Debug\net10.0\ref\retoSistemaClinicaVeterinaria.dll

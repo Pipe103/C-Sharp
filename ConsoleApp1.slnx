@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="retoSistemaClinicaVeterinaria/retoSistemaClinicaVeterinaria.csproj" />
   <Project Path="tallerControlCondicional/tallerControlCondicional.csproj" />
 </Solution>
